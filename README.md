@@ -5,8 +5,9 @@
 **Duration:** 10Th JUNE 2024 to 10Th AUG 2024
 **mentor:** SRAVANI GOUNI
 
-# PROJECT: To-Do List App
+##overview of project
 
+### PROJECT: To-Do List App
 ## Introduction
 The To-Do List App is a simple and intuitive web application that allows users to manage their tasks efficiently. Users can add new tasks, mark them as completed, filter tasks based on their status, and delete tasks.
 

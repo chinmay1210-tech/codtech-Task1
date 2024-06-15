@@ -8,16 +8,16 @@
 ##overview of project
 
 ### PROJECT: To-Do List App
-## Introduction
+### Introduction
 The To-Do List App is a simple and intuitive web application that allows users to manage their tasks efficiently. Users can add new tasks, mark them as completed, filter tasks based on their status, and delete tasks.
 
-## Features
+### Features
 - **Add Tasks**: Users can add new tasks to the list.
 - **Mark as Completed**: Users can mark tasks as completed by clicking on them.
 - **Delete Tasks**: Users can delete tasks from the list.
 - **Filter Tasks**: Users can filter tasks to show all, completed, or incomplete tasks.
 
-## Project Structure
+### Project Structure
 todo-app/
 ├── index.html
 ├── styles.css

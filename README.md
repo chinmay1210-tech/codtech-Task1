@@ -5,7 +5,7 @@
 **Duration:** 10Th JUNE 2024 to 10Th AUG 2024
 **mentor:** SRAVANI GOUNI
 
-##overview of project
+###overview of project
 
 ### PROJECT: To-Do List App
 ### Introduction
